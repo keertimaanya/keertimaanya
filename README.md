@@ -14,9 +14,6 @@
 <a href="https://www.linkedin.com/in/keerti-maanya-502127288/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28px"/>
 </a>
-<a href="https://github.com/keertimaanya" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28px"/>
-</a>
 </td>
 <td valign="top" width="45%" align="center">
 <!-- Your exact coding girl GIF -->
