@@ -6,7 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=keertimaanya&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 <br/><br/>
 <ul>
-<li>🌱 I’m currently learning: <b>React, Backend APIs (Flask & FastAPI), and Machine Learning</b></li>
 <li>💻 Passionate about building web applications and DSA</li>
 <li>📫 How to reach me: <a href="mailto:keerti.maanya.ug23@nsut.ac.in">keerti.maanya.ug23@nsut.ac.in</a></li>
 </ul>
